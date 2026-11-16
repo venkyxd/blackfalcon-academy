@@ -1,6 +1,6 @@
 {
- "name": "BlackFalcon Question Bank",
- "short_name": "BF QBank",
+ "name": "BlackFalcon Academy",
+ "short_name": "BF Academy",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
